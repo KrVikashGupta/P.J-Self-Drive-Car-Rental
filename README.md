@@ -92,7 +92,3 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 ```
 
 ---
-
-If you want, I can also **make it visually more appealing using emojis, gradient separators, and badges** so it looks like a **professional project README even without images**.
-
-Do you want me to do that?
