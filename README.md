@@ -42,7 +42,7 @@ This project emphasizes simplicity, usability, and a modern web experience.
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/YourUsername/PJ-Self-Drive-Car-Rental.git
+git clone https://github.com/KrVikashGupta/PJ-Self-Drive-Car-Rental.git
 cd PJ-Self-Drive-Car-Rental
 ````
 
