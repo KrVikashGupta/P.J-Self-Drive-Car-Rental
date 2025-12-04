@@ -72,21 +72,25 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-## 👨‍💼 Author
+## 🤝 Contributing
 
-**Your Name**
-📧 [your-email@example.com](mailto:your-email@example.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile) | [GitHub](https://github.com/YourUsername)
+Contributions are welcome! Feel free to fork the repository, open issues, and submit pull requests.
 
 ---
 
-## 📄 License
+## 🪪 License
 
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License**.
 
 ---
 
-<p align="center">
-  Made with ❤️ using React
-</p>
+## 📫 Contact
 
+**Vikash Kumar Gupta**  
+📍 Bokaro Steel City, Jharkhand  
+✉️ [vikashkumargupta907@gmail.com](mailto:vikashkumargupta907@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/vikash1995) | [GitHub](https://github.com/KrVikashGupta)
+
+---
+
+⭐ If you find this project useful, please consider giving it a star to support the work!
