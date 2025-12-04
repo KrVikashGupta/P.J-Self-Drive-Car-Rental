@@ -1,5 +1,5 @@
 
-<h1 align="center">🚗 P.J — Self-Drive Car Rental Platform</h1>
+<h1 align="center">🚗 P.J — Self-Drive Car Rental</h1>
 <p align="center">A sleek, modern, and responsive car rental platform built with React. Browse → Book → Drive.</p>
 
 <p align="center">
