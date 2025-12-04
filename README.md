@@ -25,16 +25,6 @@ Built using **React**, the platform focuses on elegance, speed, and usability.
 
 ---
 
-## 🎨 UI Preview (Clean & Modern)
-
-<p align="center">
-  <img src="https://i.ibb.co/jVnxGy2/car-banner.jpg" width="80%" alt="Car Rental Banner"/>
-</p>
-
-*(You can replace the banner with your actual project screenshot later.)*
-
----
-
 ## ✨ Key Features
 
 ### 🚗 Car Listing  
